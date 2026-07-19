@@ -2,7 +2,6 @@
 
 A Flutter desktop app for downloading media via [yt-dlp](https://github.com/yt-dlp/yt-dlp) — runs entirely locally, no backend server involved.
 
-![screenshot placeholder — add a GIF/screenshot of the app here]
 
 ## Features
 
