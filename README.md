@@ -51,8 +51,7 @@ This app is a general-purpose wrapper around yt-dlp. Downloading content may be 
 
 ## License
 
-This project bundles [yt-dlp](https://github.com/yt-dlp/yt-dlp) (Unlicense/public domain). This repo's own code is licensed under [MIT](LICENSE) — add a `LICENSE` file if you haven't yet.
-
+This project bundles [yt-dlp](https://github.com/yt-dlp/yt-dlp) (Unlicense/public domain). This repo's own code is licensed under [MIT](LICENSE)
 ## Credits
 
 Built with [yt-dlp](https://github.com/yt-dlp/yt-dlp).
